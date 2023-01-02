@@ -1,0 +1,16 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": {
+    "include": [
+      "lib/**/*.jar",
+      "d:\\College\\TYBSC SVI\\Projects TY SVI\\Information Retrieval\\Resources\\lucene-9.4.2 Jar\\modules\\lucene-core-9.4.2.jar",
+      "d:\\College\\TYBSC SVI\\Projects TY SVI\\Information Retrieval\\Resources\\lucene-9.4.2 Jar\\modules\\lucene-queryparser-9.4.2.jar",
+      "d:\\College\\TYBSC SVI\\Projects TY SVI\\Information Retrieval\\flatlaf-3.0.jar"
+    ],
+    "exclude": [
+      "d:\\College\\TYBSC SVI\\Projects TY SVI\\Information Retrieval\\Resources\\lucene-9.4.2 Jar\\modules\\lucene-sandbox-9.4.2.jar"
+    ]
+  },
+  "cSpell.words": ["Lucene"]
+}
